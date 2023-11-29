@@ -1,0 +1,6 @@
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+psycopg2
+gunicorn
+python-decouple
